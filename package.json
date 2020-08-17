@@ -22,7 +22,7 @@
     "animate.css": "^4.1.0",
     "core-js": "^3.6.5",
     "feather-icons": "^4.28.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.20",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-is": "^16.13.1",
